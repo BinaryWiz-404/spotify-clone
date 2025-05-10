@@ -1,1 +1,1 @@
-# spotify-clone
+This project is a Spotify Clone — a music streaming web application that mimics the core features of the popular Spotify platform. The goal of this project is to recreate the user experience of Spotify, including music browsing, playlists, playback control, and responsive design. It's built using modern web development technologies and is designed for educational purposes, demonstrating front-end and optionally back-end development skills.
